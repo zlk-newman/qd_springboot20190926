@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.yuw.Springboot20190926ApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.358 s - in com.yuw.Springboot20190926ApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.875 s - in com.yuw.Springboot20190926ApplicationTests
