@@ -23,7 +23,7 @@
         <!-- nekohtml 支持使用LEGACYHTML5 -->
         <nekohtml.version>1.9.22</nekohtml.version>
         <!-- commons-fileupload 版本号 -->
-        <commons-fileupload.version>1.4</commons-fileupload.version>
+        <commons-fileupload.version>1.5</commons-fileupload.version>
         <!-- commons-beanutils 版本号 -->
         <beanutils.version>1.9.4</beanutils.version>
     </properties>
